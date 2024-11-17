@@ -1,0 +1,90 @@
+
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+/* Container styling */
+.value {
+   
+    padding: 20px;
+    
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+/* .value input[type="text"] {
+    width: calc(100% - 100px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+} */
+
+/* .value button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+} */
+
+/* .value button:hover {
+    background-color: #0056b3;
+} */
+
+/* Task lists styling
+.list, .completed {
+    list-style-type: none;
+    margin-top: 10px;
+    padding: 0;
+} */
+
+/* .list h2, .completed h2 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+} */
+
+/* Task item styling */
+/* .list li, .completed li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    font-size: 16px;
+} */
+
+/* Button styling inside task items */
+/* .list li button, .completed li button {
+    margin-left: 10px;
+    padding: 5px 8px;
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+} */
+
+/* .list li button:hover, .completed li button:hover {
+    background-color: #e63946;
+} */
+
+/* Completed task button */
+/* .completed li button {
+    background-color: #ff6b6b;
+} */
+
+/* .completed li button:hover {
+    background-color: #e63946;
+} */
